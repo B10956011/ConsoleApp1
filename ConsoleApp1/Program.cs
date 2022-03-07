@@ -18,7 +18,7 @@ namespace ConsoleApp1
             Console.WriteLine("服務費：" + tip_percent);
             Console.WriteLine("稅率：" + tax_percent);
             Console.WriteLine("總共：" + total);
-
+            Console.ReadLine();
         }
     }
 }
